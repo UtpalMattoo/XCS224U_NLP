@@ -1,1 +1,1 @@
-rel_ext_01_proj.ipynb goes with uploaded PDF. Starting cell including method "glove_middle_featurizer" in rel_ext_01_proj.ipynb is the custom code for the project. included libraries in rel_ext_01_proj.ipynb were included/referred to as-is when needed
+rel_ext_01_proj.ipynb goes with uploaded PDF. Starting cell that includes the method "glove_middle_featurizer" and the following cells in rel_ext_01_proj.ipynb is the custom code for the project (builds on earlier code). Included libraries in rel_ext_01_proj.ipynb were included/referred to as-is when needed
