@@ -1,2 +1,2 @@
-Stanford's Natural Language Understanding (NLU course XCS 224U) - part of the AI Professional Certificate program
+Stanford's Natural Language Understanding (NLU course XCS 224U) - part of the AI Professional Certificate program.......
 rel_ext_01_proj.ipynb goes with uploaded PDF. Starting cell that includes the method "glove_middle_featurizer" and the following cells in rel_ext_01_proj.ipynb is the custom code for the project (builds on earlier code). Included libraries in rel_ext_01_proj.ipynb were included/referred to as-is when needed
